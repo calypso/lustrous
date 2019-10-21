@@ -4,7 +4,7 @@ Please read through this document carefully. It is EXTREMELY important that you 
 
 Below are links for different device types. Please follow the instructions to configure any device you plan to use to watch Plex content.
 
-[Android Phones]
+[Android Phones](https://github.com/calypso/lustrous/blob/master/android)
 
 [Roku]
 
