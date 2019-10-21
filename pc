@@ -1,1 +1,7 @@
 
+https://www.plex.tv/media-server-downloads/#plex-app
+
+Left side click Settings
+  In settings under Plex Media Player click Quality
+    Under Internet Streaming: Set Video Quality to Maximum
+    Play smaller videos at original quality is checked.
