@@ -6,19 +6,19 @@ Below are links for different device types. Please follow the instructions to co
 
 [Android Phones](https://github.com/calypso/lustrous/blob/master/android)
 
-[Roku]()
+[Roku](https://github.com/calypso/lustrous/blob/master/roku)
 
-[Nvidia Shield]()
+[Nvidia Shield](https://github.com/calypso/lustrous/blob/master/shield)
 
-[PC]()
+[PC](https://github.com/calypso/lustrous/blob/master/pc)
 
-[iPhone]()
+[iPhone](https://github.com/calypso/lustrous/blob/master/iphone)
 
-[Chromecast]()
+[Chromecast](https://github.com/calypso/lustrous/blob/master/chromecast)
 
-[SmartTV]()
+[SmartTV](https://github.com/calypso/lustrous/blob/master/tv)
 
-[AppleTV]()
+[AppleTV](https://github.com/calypso/lustrous/blob/master/appletv)
 
 
 
